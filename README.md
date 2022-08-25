@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex2011576&label=Profile%20views&color=0e75b6&style=flat" alt="alex2011576" /> </p>
 
-- 🌱 I’m currently learning **C, PHP, JS, HTML, CSS**
+- 🌱 I’m currently learning **C, PHP, JS, NodeJS, HTML, CSS, MySql, Bootstrap**
+- I’m soon to be learning **React, PostgreSQL, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **C, PHP, JS, NodeJS, HTML, CSS, MySql, Bootstrap**
 - I’m soon to be learning **React, TypeScript, PostgreSQL, GitHub Actions, Python**
+- I would like to learn Data Science / Data Analytics
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

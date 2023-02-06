@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex2011576&label=Profile%20views&color=0e75b6&style=flat" alt="alex2011576" /> </p>
 
 - 🌱 Hands-on experience with **React, TypeScript, PostgreSQL, JS, NodeJS, HTML, CSS, MySql, Express, Socket.io, Bootstrap, MUI, C, PHP, Docker...**
-- Currently doing a dating platform project "Matcha" at Hive Helsinki,
+- Currently doing a streaming platform project "Hypertube" at Hive Helsinki,
 - API and Integration Solutions Specialist in TietoEvry (soon),
 - I would like to learn Data Science / Data Analytics and DevOps.
 

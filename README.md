@@ -5,8 +5,7 @@
 
 <!-- - 🌱 Hands-on experience with **React, TypeScript, PostgreSQL, JS, NodeJS, HTML, CSS, MySql, Express, Socket.io, Bootstrap, MUI, C, PHP, Docker...** -->
 - Currently learning and working with MuleSoft and JAVA,
-- API and Integration Solutions Specialist in TietoEvry,
-- I would like to learn Data Science / Data Analytics and DevOps.
+- API and Integration Solutions Specialist in TietoEvry
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

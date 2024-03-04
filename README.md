@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex2011576&label=Profile%20views&color=0e75b6&style=flat" alt="alex2011576" /> </p>
 
 <!-- - 🌱 Hands-on experience with **React, TypeScript, PostgreSQL, JS, NodeJS, HTML, CSS, MySql, Express, Socket.io, Bootstrap, MUI, C, PHP, Docker...** -->
-- Currently learning and working with MuleSoft and JAVA,
-- API and Integration Solutions Specialist in TietoEvry
+- Currently working with Integration and DevOps technologies (MuleSoft, Azure DevOps, Powershell and Python for writing automations, JAVA, Maven, etc.)
+- API and Integration Solutions Specialist at TietoEvry
 
 <h3 align="left">Connect with me</h3>
 <p align="left">

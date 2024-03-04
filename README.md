@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksei Shatalov</h1>
-<h3 align="center">Solution Consultant / Hive Helsinki student🐝</h3>
+<h3 align="center">Solution Consultant / Hive Helsinki alumni🐝</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex2011576&label=Profile%20views&color=0e75b6&style=flat" alt="alex2011576" /> </p>
 
